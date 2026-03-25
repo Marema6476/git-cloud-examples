@@ -1,2 +1,3 @@
+Studying git
 Hello World
 Remza
